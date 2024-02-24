@@ -1,0 +1,34 @@
+#divmain{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    justify-content: end;
+
+}
+#divmain2{
+    position: absolute;
+  
+}
+#divimg{
+    margin-left: 650px ;
+}
+#divmain3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-align: center; 
+    align-items: center;
+}
+#divmain3>div>img{
+width: 150px;
+height: 200px;
+}
+#h3{
+    transform: rotate(270deg);
+}
+#button1{
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+}
